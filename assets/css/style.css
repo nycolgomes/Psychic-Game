@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(208, 232, 253);
+    color: rgb(65, 65, 206);
+    text-align: center;
+    width:100%;
+    vertical-align: middle;
+}
+#game{
+    display: flex;
+	flex-direction: column;
+    justify-content: center;
+    margin: 90px 100px auto 100px;
+    border: rgb(250, 174, 250) solid 2px;
+    padding: 20px 20px 20px 20px;
+}
+h1{
+    color: rgb(50, 50, 196);
+    font-size: 38px;
+    margin-top: 0;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    padding: 20px;
+}
+#dir{
+    font-style: italic;
+    color: rgb(122, 80, 219);
+}
+p{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
